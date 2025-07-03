@@ -1,5 +1,5 @@
 # Instalacion de Windows Subsystem for Linux (Ubuntu) de manera sencilla en Windows 11
-Veremos como instalar WSL de manera sencilla a pasos sin tener que tocar de primeras la terminal cmd o PoweShell, dando por hecho de contar con un equipo de potencia suficiente.
+Veremos como instalar WSL de manera sencilla a pasos sin tener que tocar principalmente la terminal cmd o PoweShell para quien no este familiarizado, dando por hecho de contar con un equipo de potencia suficiente.
  
 **Paso 1.** Abre el _Menu de Inicio_ de Windows 11, en el buscador escribe _Activar o desactivar las caracteristicas de Windows,_ al acceder asegurate de tener marcadas estas caracteristicas:
 
@@ -20,12 +20,14 @@ Cuando termine de instalarse, abrelo desde la _Microsoft Store_ y espera a que s
 
 **Paso 4.** Actualiza las librerias con los siguientes comandos
 
-    sudo apt update && sudo nala upgrade
+    sudo apt update && sudo apt upgrade
 
-Presta atencion para confirmas los upgrades con la tecla _y_ o _s._
+Presta atencion para confirmas los upgrades con la tecla _Y_ o _S._
 
 Ese comando se usa con regularidad para mantener tu sistema al dia.
 
 ***Nota!*** despues de copiar el comando, solo basta con presionar click derecho en la terminal para pegarlo.
 
-**Paso 5.** 
+#Listo
+
+Hasta este punto ya se tiene instalado WSL en su forma mas basica y sencilla para quien apenas este empezando o requiera hacer o replicar alguna funcion que solo se encuentre disponible en linux
