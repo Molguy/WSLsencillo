@@ -28,6 +28,6 @@ Ese comando se usa con regularidad para mantener tu sistema al dia.
 
 ***Nota!*** despues de copiar el comando, solo basta con presionar click derecho en la terminal para pegarlo.
 
-#Listo
+# Listo 
 
 Hasta este punto ya se tiene instalado WSL en su forma mas basica y sencilla para quien apenas este empezando o requiera hacer o replicar alguna funcion que solo se encuentre disponible en linux
