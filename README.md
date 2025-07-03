@@ -7,6 +7,7 @@ Veremos como instalar WSL de manera sencilla a pasos sin tener que tocar de prim
     [✓] Virtual Machine PLataform
 
 Se te pedira que reinicies el equipo*
+
 Es recomendable que tengas activada la virtualizacion desde la BIOS o la interfaz UEFI*
 
 **Paso 2.**
