@@ -19,7 +19,7 @@ Cuando termine de instalarse, abrelo desde la _Microsoft Store_ y espera a que s
 # **Paso 3.** 
 Crea y confirma un nombre de usuario con contraseña en la terminal de Ubuntu
 
-***Nota!*** recuerda que la contraseña no es visible al escribirla y tampoco los caracteres **_"*"_** apareceran)
+***Nota!*** recuerda que la contraseña no es visible al escribirla y tampoco los caracteres **_"*"_** apareceran
 
 # **Paso 4.** 
 Actualiza las librerias con los siguientes comandos
